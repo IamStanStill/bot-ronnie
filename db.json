@@ -1,0 +1,110 @@
+{
+  "entrances": {
+    "353653576746270721": "dre",
+    "202443468574949388": "fuckoff",
+    "423874938160676886": "vent"
+  },
+  "exits": {
+    "202443468574949388": "ohfuckoff",
+    "423874938160676886": "vent",
+    "353653576746270721": "stupidcunt"
+  },
+  "ignoreList": [],
+  "sounds": [
+    {
+      "name": "dre",
+      "count": 18,
+      "tags": []
+    },
+    {
+      "name": "johncena",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "-fuckoff",
+      "count": 4,
+      "tags": []
+    },
+    {
+      "name": "-stupidcunt",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "-luckycunt",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "fuckoff",
+      "count": 129,
+      "tags": []
+    },
+    {
+      "name": "luckycunt",
+      "count": 10,
+      "tags": []
+    },
+    {
+      "name": "stupidcunt",
+      "count": 27,
+      "tags": []
+    },
+    {
+      "name": "fuckofflucky",
+      "count": 10,
+      "tags": []
+    },
+    {
+      "name": "ohfuckoff",
+      "count": 43,
+      "tags": []
+    },
+    {
+      "name": "yeet",
+      "count": 27,
+      "tags": []
+    },
+    {
+      "name": "sad",
+      "count": 10,
+      "tags": []
+    },
+    {
+      "name": "quiet",
+      "count": 7,
+      "tags": []
+    },
+    {
+      "name": "nice",
+      "count": 6,
+      "tags": []
+    },
+    {
+      "name": "slimshady",
+      "count": 10,
+      "tags": []
+    },
+    {
+      "name": "fridaythen",
+      "count": 1,
+      "tags": []
+    },
+    {
+      "name": "mufasa",
+      "count": 9,
+      "tags": []
+    },
+    {
+      "name": "imgay",
+      "count": 12,
+      "tags": []
+    },
+    {
+      "name": "vent",
+      "count": 58,
+      "tags": []
+    }
+  ]
+}
